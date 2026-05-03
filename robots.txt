@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SauloNogAlves.github.io/snippets-g6sqhn/sitemap.xml
